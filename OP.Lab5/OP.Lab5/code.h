@@ -10,3 +10,4 @@ int binToDec(long binNum);
 // get hex - return dec
 int hexToDec(std::string hexNum);
 #endif
+

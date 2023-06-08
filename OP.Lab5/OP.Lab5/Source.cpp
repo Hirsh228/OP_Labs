@@ -31,7 +31,7 @@ int main()
 
 	std::cout << "\n***Hexadecimal sum***\n";
 	std::string hex{};
-	for (int i = 0; i < m; i++)
+	for (int i = 0; i < n; i++)
 	{
 		std::cout << "Hex " << i + 1 << ": ";
 		std::cin >> hex;
